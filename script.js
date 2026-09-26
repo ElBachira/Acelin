@@ -87,7 +87,40 @@ document.addEventListener('DOMContentLoaded', function() {
             src: "song.mp3",
             lyrics: 
 [
-  { "time": 0, "line": "..." }
+  { "time": 7, "line": "Dime ahora, chica linda" },
+  { "time": 11, "line": "Nunca podrías dejar de ser despistada" },
+  { "time": 15, "line": "Demasiado perdida" },
+  { "time": 16, "line": "¿Acaso no lo ves ya?" },
+  { "time": 18, "line": "¿Sabes que me siento tan mal?" },
+  { "time": 21, "line": "Cada amor que pasó por tu mente" },
+  { "time": 25, "line": "Dar amor" },
+  { "time": 27, "line": "Terminó mal" },
+  { "time": 29, "line": "Quizá el amor pueda calmar tu dolor" },
+  { "time": 33, "line": "Reconciliarse" },
+  { "time": 35, "line": "Hacer que todo mejore" },
+  { "time": 36, "line": "Mejore, mejore, mejore, mejore" },
+  { "time": 54, "line": "¡Vamos, Ladybug! No dudes, hasta encontrar un camino" },
+  { "time": 59, "line": "Por siempre" },
+  { "time": 62, "line": "¡Vamos, Ladybug! Tenemos una meta, algún día estaremos bien" },
+  { "time": 67, "line": "Juntos" },
+  { "time": 69, "line": "¿Sabías que nunca podría ser suficiente?" },
+  { "time": 72, "line": "Porque necesito lo que me arrebataron" },
+  { "time": 76, "line": "Llevando todo hacia un amor mejor" },
+  { "time": 79, "line": "Cuando lo necesites, hasta el final" },
+  { "time": 83, "line": "Cuando todo te da vueltas en la cabeza" },
+  { "time": 87, "line": "Dar amor" },
+  { "time": 89, "line": "Terminó mal" },
+  { "time": 91, "line": "Y el amor puede robarte el dolor" },
+  { "time": 94, "line": "Reconciliarse" },
+  { "time": 96, "line": "Hacer que todo mejore, mejore, mejore, mejore, mejore..." },
+  { "time": 116, "line": "¡Vamos, Ladybug! No dudes, hasta encontrar un camino" },
+  { "time": 120, "line": "Por siempre" },
+  { "time": 123, "line": "¡Vamos, Ladybug! Tenemos una meta, algún día estaremos bien" },
+  { "time": 128, "line": "Juntos" },
+  { "time": 130, "line": "¡Vamos, Ladybug! No dudes, hasta encontrar un camino" },
+  { "time": 135, "line": "Por siempre" },
+  { "time": 138, "line": "¡Vamos, Ladybug! Tenemos una meta, algún día estaremos bien" },
+  { "time": 143, "line": "Juntos" }
 ]
         }
     ];
