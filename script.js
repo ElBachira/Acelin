@@ -82,8 +82,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // =================================================================
     const songs = [
         {
-            title: "Love is in the Air",
-            artist: "Rock Burwell",
+            title: "Ladybug Pv",
+            artist: "Noam Kaniel",
             src: "song.mp3",
             lyrics: 
 [
